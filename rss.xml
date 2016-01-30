@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[suorakauppakahvi]]></title>
         <description><![CDATA[suorakauppakahvi]]></description>
-        <link>https://thegrid.ai/suorakauppakahvi/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 14:21:53 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/suorakauppakahvi/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[YHTEYSTIETOMME]]></title>
-            <description><![CDATA[<article><h1>YHTEYSTIETOMME</h1><p>Minä Minänen </p></article>]]></description>
-            <link>https://thegrid.ai/suorakauppakahvi/yhteystietomme/index.html</link>
-            <guid isPermaLink="false">eeb08e9a-8ce4-49f1-8fcf-03daa33f6b25</guid>
-            <pubDate>Sat, 30 Jan 2016 14:21:40 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sat, 30 Jan 2016 14:21:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SUORAKAUPPA]]></title>
             <description><![CDATA[<article><h1>SUORAKAUPPA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/989c64d990947ff26ef631c6935e007e3ac3a0a1.png"></article>]]></description>
-            <link>https://thegrid.ai/suorakauppakahvi/suorakauppa/index.html</link>
+            <link>undefinedsuorakauppa/index.html</link>
             <guid isPermaLink="false">93179c5f-13ad-4bc0-8184-0685eb6246b6</guid>
             <pubDate>Sat, 30 Jan 2016 14:21:40 GMT</pubDate>
         </item>
