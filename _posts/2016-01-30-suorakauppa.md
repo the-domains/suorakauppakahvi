@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T14:34:47.262Z'
-dateModified: '2016-01-30T14:34:44.054Z'
+datePublished: '2016-01-30T14:40:38.721Z'
+dateModified: '2016-01-30T14:40:34.734Z'
 title: SUORAKAUPPA
 author: []
 sourcePath: _posts/2016-01-30-suorakauppa.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/989c64d990947ff26ef631c6935e007e3ac3a0a1.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/239b68ab67c0e64651276558303537aa98b05440.png)
 
 # SUORAKAUPPA
 
