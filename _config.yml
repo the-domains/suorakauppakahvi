@@ -1,6 +1,6 @@
 name: suorakauppakahvi
 favicon: null
-layout_spectrum: 0.49258913402445614
+layout_spectrum: 0.83749
 typography_spectrum: 0.14260076661594212
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7462508720345795
-  lightness: 0.19909055554307997
-  saturation: 0.022881899494677782
-  rhythmicContrast: 0.012469788314774632
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
