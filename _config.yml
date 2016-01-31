@@ -1,9 +1,7 @@
-favicon: null
 name: suorakauppakahvi
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.8920742
+typography_spectrum: 0.12141
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0
-  brandStrength: 0.5531197
-  lightness: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#1F1F1F'
-    - '#4A5C42'
-    - '#B4BDB4'
-    - '#99AD27'
-  rhythmicContrast: 0
-typography_spectrum: 0.60503
-layout_spectrum: 0.8920742
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1e1e1e'
+    - '#ffffff'
+    - '#6baede'
+    - '#d0b188'
+    - '#9d8361'
+  brandStrength: 0.5531197
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
