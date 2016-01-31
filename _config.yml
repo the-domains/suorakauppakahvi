@@ -1,28 +1,40 @@
-name: suorakauppakahvi
-favicon: null
-layout_spectrum: 0.83749
-typography_spectrum: 0.60503
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.875
-  rhythmicContrast: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0
+  brandStrength: 0.5531197
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#1F1F1F'
+    - '#4A5C42'
+    - '#B4BDB4'
+    - '#99AD27'
+  rhythmicContrast: 0.4620573
+typography_spectrum: 0.60503
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8920742
+favicon: null
+name: suorakauppakahvi
