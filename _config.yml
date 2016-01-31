@@ -1,7 +1,7 @@
 name: suorakauppakahvi
 favicon: null
 layout_spectrum: 0.8920742
-typography_spectrum: 0.12141
+typography_spectrum: 0.13104
 collections:
   - index:
       path: /
