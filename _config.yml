@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: suorakauppakahvi
 opengraph:
   image: null
   type: null
@@ -29,12 +27,14 @@ color:
     - '#4A5C42'
     - '#B4BDB4'
     - '#99AD27'
-  rhythmicContrast: 0.4620573
+  rhythmicContrast: 0
 typography_spectrum: 0.60503
+layout_spectrum: 0.8920742
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.8920742
-favicon: null
-name: suorakauppakahvi
+analytics:
+  twitter: null
+  google: null
+  facebook: null
